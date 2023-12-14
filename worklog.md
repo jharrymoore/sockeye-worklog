@@ -2,7 +2,7 @@
 
 - Working on sockeye headnode
 - Installed miniconda via the standard linux installer, using default settings
-- Ensure mamba is installed in the base env with
+- Installed mamba in the base env with
 ```
 conda install mamba -c conda-forge
 ```
