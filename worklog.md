@@ -1,7 +1,7 @@
 ## Initial setup
 
 - Working on sockeye headnode
-- Installed miniconda via the standard linux installer, using default settingsnew
+- Installed miniconda via the standard linux installer, using default settings
 - Created new env from my existing env on the Cambridge machine. Since I'm working on the headnode I need to override the virtual cuda package
 ```
 export CONDA_OVERRIDE_CUDA=11.8`
